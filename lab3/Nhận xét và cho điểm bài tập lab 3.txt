@@ -1,0 +1,26 @@
+- Bài 1: 
+a) đúng
+b) đúng
+c) đề bài yêu cầu là in ra tổng của các số dạng 1/căn(2i) chứ không phải tổng của các số 1/(căn i) với i là số chẵn
+d) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng 
+c) đúng 
+d) đúng
+e) trống
+Điểm bài tập: 4.0
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 8.5
